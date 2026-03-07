@@ -29,6 +29,7 @@ fields:
       - name: Icon
         type: icon
   - name: Location
+    comment: Instance ID of the EventRange where this spawns.
   - name: EventItem
     type: link
     targets: [EventItem]
