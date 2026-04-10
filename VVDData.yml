@@ -16,4 +16,6 @@ fields:
     comment: RowId of VVDRouteData and VVDNotebookSeries
   - name: Sequence
     comment: Sequence inside of the series.
-  - name: Unknown6
+  - name: RouteData
+    type: link
+    targets: [VVDVoteRoute]
