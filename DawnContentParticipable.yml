@@ -1,4 +1,5 @@
 name: DawnContentParticipable
+displayField: DawnQuestMember
 fields:
   - name: DawnQuestMember
     type: link

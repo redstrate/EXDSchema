@@ -1,4 +1,5 @@
 name: ContentDirectorBattleTalk
+displayField: Text
 fields:
   - name: Icon
     type: icon
