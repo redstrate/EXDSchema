@@ -9,6 +9,7 @@ fields:
     count: 3
   - name: Unknown0
   - name: Unknown1
+  - name: Unknown14
   - name: ReqEventItem
     type: link
     targets: [EventItem]
@@ -21,7 +22,6 @@ fields:
   - name: Unknown10
   - name: Unknown11
   - name: Unknown12
-  - name: Unknown14
   - name: ObjectiveIcon
     type: array
     count: 32
