@@ -97,7 +97,8 @@ fields:
   - name: LevelItem
     type: link
     targets: [ItemLevel]
-  - name: Unknown4
+  - name: SubcategorySort
+    comment: Used in conjunction with the ItemUICategory sortkeys to sort things like vendor lists
   - name: ItemAction
     type: link
     targets: [ItemAction]
