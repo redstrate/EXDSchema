@@ -4,9 +4,9 @@ fields:
   - name: Fish
     type: link
     targets: [FishParameter]
-  - name: IKDContentBonus
-    type: array
-    count: 2
-    fields:
-      - type: link
-        targets: [IKDContentBonus]
+  - name: PartyBonus
+    type: link
+    targets: [IKDContentBonus]
+  - name: IndividualBonus
+    type: link
+    targets: [IKDContentBonus]
