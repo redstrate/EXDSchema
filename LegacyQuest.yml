@@ -3,5 +3,7 @@ fields:
   - name: Text
   - name: String
   - name: Genre
+    type: link
+    targets: [JournalGenre]
   - name: LegacyQuestID
   - name: SortKey
